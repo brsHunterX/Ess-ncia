@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;EACE,mBAAmB;AACrB;AAFA;EACE,mBAAmB;AACrB;AAFA;EACE,mBAAmB;AACrB","file":"style.css","sourcesContent":[":fullscreen #main p {\n  background: #3880ff;\n}\n"]}
